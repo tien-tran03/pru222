@@ -1,4 +1,4 @@
-
+# Unity
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -8,31 +8,11 @@
 /[Mm]emoryCaptures/
 /Assets/AssetStoreTools*
 
+# Chỉ theo dõi Assets
 /*/
 !/Assets/
-*.csproj
-*.unityproj
-*.sln
-*.suo
-*.tmp
-*.user
-*.userprefs
-*.pidb
-*.booproj
-*.svd
-*.pdb
-*.mdb
 
-
+# System files
 .DS_Store
 Thumbs.db
-desktop.ini
-/[Pp]ackages/
-/[Pp]ackage[Cc]ache/
-
-
-*.bak
-*.cache
-*.log
-*.swp
-*.swo
+*.vsconfig
